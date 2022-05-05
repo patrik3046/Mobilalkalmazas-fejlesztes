@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Látványosságok</string>
+    <string name="login_image">Bejelentkezési háttérkép</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="email">E-mail</string>
+    <string name="password">Jelszó</string>
+    <string name="successfull_registration">Sikeresen Regisztrálva, mint </string>
+    <string name="unsuccessfull_registration">Sikertelen Regisztráció! </string>
+    <string name="picture_of_sight">Kép a látványosságról</string>
+    <string name="name_of_sight">Látványosság neve</string>
+    <string name="location_of_sight">Látványosság helyszíne</string>
+    <string name="rating_of_sight">Látványosság értékelése</string>
+    <string name="description">Leírás:</string>
+    <string name="description_of_sight">Látványosság leírása</string>
+    <string name="successfull_login">Sikeresen bejelentkezve, mint </string>
+    <string name="unsuccessfull_login">Sikertelen bejelentkezés! </string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="successfull_logout">Sikeresen kijelentkezett!</string>
+    <string name="refresh_sight">Refresh sight</string>
+    <string name="add_sight">Látványosság hozzáadása</string>
+    <string name="image_of_sight_link">Kép hivatkozása</string>
+    <string name="add">Hozzáad</string>
+    <string name="cancel">Mégse</string>
+    <string name="sight_added_successfully">Látványosság sikeresen hozzáadva az adatbázishoz:</string>
+    <string name="sight_deleted_successfully">Látványosság sikeresen törölve:</string>
+    <string name="permission_denied">Hozzáférés a tárhelyhez megtagadva. Letöltés sikertelen!</string>
+    <string name="image_succesfully_downloaded">A kép sikeresen letöltődött!</string>
+</resources>
